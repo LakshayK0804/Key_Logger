@@ -5,3 +5,7 @@ This is a keylogger created by me.
 Please use this application very craefully and i will not be responsible for any actions done by the user using my application
 [Whether is ti to the harm of someone or for the benefit]
 [Please do not copy my code!]
+For using Please run the deploy key program...
+Thank you for using my keylogger!
+Cheers,
+Lakshay
