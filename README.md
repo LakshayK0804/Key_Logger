@@ -1,4 +1,5 @@
 # Key_Logger
+#This requiresthe "pynput" library.
 Advanced Keylogger using python[Requires pynput library][for ethical hacking]Please use with consent of other person only!
 This is a keylogger created by me.
                                       [DISCLAIMER!{Please Read before using}]
